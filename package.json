@@ -1,0 +1,9 @@
+{
+  "name": "college-event-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "College events and student registration app built with Express, EJS and SQLite.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "better-sqlite3": "^11.8.1", "ejs": "^3.1.10", "express": "^4.21.2" }
+}
